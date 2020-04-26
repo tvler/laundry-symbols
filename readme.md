@@ -1,0 +1,13 @@
+<img src="bleach.svg">
+<img src="do-not-bleach.svg">
+<img src="tumble-dry.svg">
+<img src="dry-on-low.svg">
+<img src="dry-on-medium.svg">
+<img src="dry-on-high.svg">
+<img src="dry-on-permanent-press.svg">
+<img src="dry-on-delicate.svg">
+<img src="iron-on-low.svg">
+<img src="iron-on-medium.svg">
+<img src="iron-on-high.svg">
+<img src="no-heat.svg">
+<img src="do-not-dry-clean.svg">
