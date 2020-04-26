@@ -11,7 +11,7 @@
 >
   <rect x="4" y="4" width="16" height="16" />
   <circle cx="12" cy="12" r="7.5" />
-  <circle cx="12" cy="12" r="1.5" fill="currentColor" stroke="none" />
+  <circle cx="12" cy="12" r="1.25" fill="currentColor" stroke="none" />
   <line x1="4" y1="23" x2="10" y2="23" />
   <line x1="14" y1="23" x2="20" y2="23" />
 </svg>
