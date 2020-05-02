@@ -1,0 +1,18 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  stroke="currentColor"
+  stroke-width="1.5"
+  stroke-linecap="round"
+  stroke-linejoin="round"
+>
+  <circle cx="12" cy="12" r="9.25" />
+  <path
+    stroke="none"
+    fill="currentColor"
+    d="M8.64107 17H10.1773V13.4205H12.2654C14.6269 13.4205 15.7952 11.9936 15.7952 10.1143C15.7952 8.24006 14.6368 6.81818 12.2703 6.81818H8.64107V17ZM10.1773 12.1179V8.13565H12.1063C13.6276 8.13565 14.249 8.96094 14.249 10.1143C14.249 11.2678 13.6276 12.1179 12.1262 12.1179H10.1773Z"
+  />
+</svg>
