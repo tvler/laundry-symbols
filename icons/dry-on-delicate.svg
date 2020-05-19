@@ -9,9 +9,9 @@
   stroke-linecap="round"
   stroke-linejoin="round"
 >
-  <rect x="3.25" y="3.25" width="17.5" height="17.5" />
-  <circle cx="12" cy="12" r="8" />
+  <rect x="0.75" y="3.25" width="22.5" height="17.5" />
+  <circle cx="12" cy="12" r="8.25" />
   <circle cx="12" cy="12" r="1.25" fill="currentColor" stroke="none" />
-  <line x1="3.25" y1="23.25" x2="10" y2="23.25" />
-  <line x1="14" y1="23.25" x2="20.75" y2="23.25" />
+  <line x1="0.75" y1="23.25" x2="10" y2="23.25" />
+  <line x1="14" y1="23.25" x2="23.25" y2="23.25" />
 </svg>
