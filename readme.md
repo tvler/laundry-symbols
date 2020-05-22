@@ -1,3 +1,4 @@
+<span>
 <img src="icons/machine-wash.svg" />
 <img src="icons/machine-wash-on-cold.svg" />
 <img src="icons/machine-wash-on-warm.svg" />
@@ -34,3 +35,4 @@
 <img src="icons/dry-clean-tetrachloroethylene-solvent-only.svg" />
 <img src="icons/professional-wet-cleaning-only.svg" />
 <img src="icons/do-not-dry-clean.svg" />
+</span>
