@@ -1,5 +1,5 @@
 <h3 align="center">
-  laundry-icons (<a href="//github.com/tvler/laundry-icons/releases/latest">download zip</a>)
+  <code>laundry-icons</code> (<a href="//github.com/tvler/laundry-icons/releases/latest">download zip</a>)
 </h3>
 <p align="center">
   Every laundry icon as a 24x24 SVG
