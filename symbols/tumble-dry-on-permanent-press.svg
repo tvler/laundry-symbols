@@ -12,5 +12,5 @@
   <rect x="3.25" y="3.25" width="17.5" height="17.5" />
   <circle cx="12" cy="12" r="8.75" />
   <circle cx="12" cy="12" r="1.25" fill="currentColor" stroke="none" />
-  <line stroke-width="1.25" x1="3.25" y1="23.375" x2="20.75" y2="23.25" />
+  <line stroke-width="1.25" x1="3.125" y1="23.375" x2="20.875" y2="23.375" />
 </svg>
