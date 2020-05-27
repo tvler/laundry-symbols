@@ -7,19 +7,19 @@
 <p align="center">
   <img src="symbols/machine-wash.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/machine-wash-on-cold.svg" />
+  <img src="symbols/machine-wash-cold.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/machine-wash-on-warm.svg" />
+  <img src="symbols/machine-wash-warm.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/machine-wash-on-hot.svg" />
+  <img src="symbols/machine-wash-hot.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/machine-wash-on-very-hot.svg" />
+  <img src="symbols/machine-wash-very-hot.svg" />
   &nbsp;&nbsp;
   <img src="symbols/hand-wash.svg" />
   <br /><br />
-  <img src="symbols/machine-wash-on-permanent-press.svg" />
+  <img src="symbols/machine-wash-permanent-press.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/machine-wash-on-delicate.svg" />
+  <img src="symbols/machine-wash-delicate.svg" />
   &nbsp;&nbsp;
   <img src="symbols/do-not-machine-wash.svg" />
   &nbsp;&nbsp;
@@ -31,15 +31,15 @@
   <br /><br />
   <img src="symbols/tumble-dry.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/tumble-dry-on-low.svg" />
+  <img src="symbols/tumble-dry-low.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/tumble-dry-on-medium.svg" />
+  <img src="symbols/tumble-dry-medium.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/tumble-dry-on-high.svg" />
+  <img src="symbols/tumble-dry-high.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/tumble-dry-on-permanent-press.svg" />
+  <img src="symbols/tumble-dry-permanent-press.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/tumble-dry-on-delicate.svg" />
+  <img src="symbols/tumble-dry-delicate.svg" />
   <br /><br />
   <img src="symbols/do-not-tumble-dry.svg" />
   &nbsp;&nbsp;
@@ -53,11 +53,11 @@
   &nbsp;&nbsp;
   <img src="symbols/tumble-dry-no-heat.svg" />
   <br /><br />
-  <img src="symbols/iron-on-low.svg" />
+  <img src="symbols/iron-low.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/iron-on-medium.svg" />
+  <img src="symbols/iron-medium.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/iron-on-high.svg" />
+  <img src="symbols/iron-high.svg" />
   &nbsp;&nbsp;
   <img src="symbols/iron-no-steam.svg" />
   &nbsp;&nbsp;
