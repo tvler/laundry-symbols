@@ -5,7 +5,7 @@
   Every laundry symbol as a 24x24 SVG
 </p>
 <p align="center">
-  <img src="symbols/machine-wash.svg" />
+  <img src="symbols/machine-wash-normal.svg" />
   &nbsp;&nbsp;
   <img src="symbols/machine-wash-cold.svg" />
   &nbsp;&nbsp;
@@ -29,7 +29,7 @@
   &nbsp;&nbsp;
   <img src="symbols/do-not-bleach.svg" />
   <br /><br />
-  <img src="symbols/tumble-dry.svg" />
+  <img src="symbols/tumble-dry-normal.svg" />
   &nbsp;&nbsp;
   <img src="symbols/tumble-dry-low.svg" />
   &nbsp;&nbsp;
