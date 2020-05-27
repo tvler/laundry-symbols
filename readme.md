@@ -41,6 +41,8 @@
   &nbsp;&nbsp;
   <img src="symbols/tumble-dry-delicate.svg" />
   <br /><br />
+  <img src="symbols/tumble-dry-no-heat.svg" />
+  &nbsp;&nbsp;
   <img src="symbols/do-not-tumble-dry.svg" />
   &nbsp;&nbsp;
   <img src="symbols/hang-dry.svg" />
@@ -50,9 +52,9 @@
   <img src="symbols/dry-flat.svg" />
   &nbsp;&nbsp;
   <img src="symbols/dry-in-shade.svg" />
-  &nbsp;&nbsp;
-  <img src="symbols/tumble-dry-no-heat.svg" />
   <br /><br />
+  <img src="symbols/do-not-dry.svg" />
+  &nbsp;&nbsp;
   <img src="symbols/iron-low.svg" />
   &nbsp;&nbsp;
   <img src="symbols/iron-medium.svg" />
@@ -62,18 +64,18 @@
   <img src="symbols/iron-no-steam.svg" />
   &nbsp;&nbsp;
   <img src="symbols/do-not-iron.svg" />
-  &nbsp;&nbsp;
-  <img src="symbols/do-not-wring.svg" />
   <br /><br />
   <img src="symbols/dry-clean.svg" />
   &nbsp;&nbsp;
   <img src="symbols/dry-clean-any-solvent.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/dry-clean-hydrocarbon-solvent-only.svg" />
+  <img src="symbols/dry-clean-hydrocarbon-solvent.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/dry-clean-tetrachloroethylene-solvent-only.svg" />
+  <img src="symbols/dry-clean-tetrachloroethylene-solvent.svg" />
   &nbsp;&nbsp;
-  <img src="symbols/professional-wet-cleaning-only.svg" />
+  <img src="symbols/professional-wet-cleaning.svg" />
   &nbsp;&nbsp;
   <img src="symbols/do-not-dry-clean.svg" />
+  <br /><br />
+  <img src="symbols/do-not-wring.svg" />
 </p>
